@@ -1,2 +1,2 @@
 # something
-amongus
+a very simple BepInEx plugin that logs "amongus"
